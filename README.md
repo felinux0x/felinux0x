@@ -76,9 +76,8 @@ mission: "Making the internet safer, one vulnerability at a time"
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=felinux0x&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=00FF41&icon_color=00FF41&border_color=00FF41" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=felinux0x&theme=dark&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideNums=00FF41&currStreakNum=00FF41&sideLabels=00FF41&dates=00FF41&border=00FF41" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=felinux0x&theme=matrix&hide_border=false" width="48%" />
 </div>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felinux0x&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=00FF41&border_color=00FF41" width="48%" />
 </div>
