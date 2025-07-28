@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=35&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=70&lines=Felipe+Rosa+0x01;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88;Cybersecurity+Specialist;Bug+Bounty+Beginners;Hacker" />
 </h1>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=felinux0x&color=00ff41&style=flat-square&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/badge/STATUS-HUNTING%20BUGS-00ff41?style=flat-square&logo=target&logoColor=white" />
