@@ -28,7 +28,7 @@ name: Felipe Rosa
 age: 22
 role: Cybersecurity Specialist
 education: Information Security @ PUC Minas
-location: /home/brazil/mg
+location: /home/brazil/sp
 mission: "Making the internet safer, one vulnerability at a time"
 ```
 
