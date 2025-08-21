@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=696969&height=180&section=header&text=felinux0x&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <p align="center">
-  Hi I'm voidpwnd I currently work as a security researcher.
+  Hi, I'm voidpwnd and I currently work as a support intern.
   <br>
   <em></em>
 </p>
