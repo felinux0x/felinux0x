@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <h3>Ferramentas e Tecnologias</h3>
+  <h3>Tools and Technologies</h3>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
