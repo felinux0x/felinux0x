@@ -2,144 +2,152 @@
 
 ```ascii
 ┌─[fxlpz@sec]─[~]
-└──╼ $ whoami
+└──╼ $ cat profile.txt
 ```
 
-> 23 anos. Quebrando coisas por diversão e lucro eticamente.  
-> CTF grinder. Bug bounty hunter. Red team em formação.  
-> A missão é simples: encontrar antes que o mal encontre.
+## Overview
 
----
+Offensive Security Specialist focused on vulnerability research and penetration testing. Passionate about breaking systems ethically to strengthen digital security posture.
 
-## `cat /proc/skills`
+**Role:** CTF Player | Red Team Jr | Pentest Jr  
+**Age:** 23  
+**Mission:** Finding and exploiting vulnerabilities before malicious actors do
 
-### ⚔️ Offensive Security
+## Technical Expertise
 
+### Offensive Security
 ```yaml
-web:
-  - SQL Injection / NoSQL Injection
-  - XSS, SSRF, LFI/RFI
-  - IDOR, Business Logic Flaws
-  - API Abuse & Auth Bypass
+web_exploitation:
+  - SQL Injection & NoSQL Injection
+  - Cross-Site Scripting (XSS)
+  - Server-Side Request Forgery (SSRF)
+  - Local/Remote File Inclusion
+  - Insecure Direct Object References
 
-binary:
-  - Buffer Overflow, ROP chains
-  - Format String Exploits
+binary_exploitation:
+  - Buffer Overflow Attacks
+  - Return-Oriented Programming (ROP)
+  - Format String Vulnerabilities
   - Reverse Engineering
 
-network:
-  - Reconhecimento & Enumeração
-  - Pivoting & Lateral Movement
-  - Active Directory Attacks
-  - Wireless Pentesting
+network_penetration:
+  - Port Scanning & Service Enumeration
+  - Network Pivoting & Lateral Movement
+  - Active Directory Exploitation
+  - Wireless Security Assessment
 
 post_exploitation:
-  - PrivEsc Linux / Windows
-  - Persistência, Exfiltração
+  - Linux Privilege Escalation
+  - Windows Privilege Escalation
+  - Persistence Mechanisms
+  - Data Exfiltration Techniques
 ```
 
-### 🧰 Arsenal
-
+### Security Arsenal
 ```
-Recon          → nmap · masscan · gobuster · ffuf · amass
-Web            → Burp Suite Pro · sqlmap · OWASP ZAP
-Exploit        → Metasploit · Empire · custom scripts
-Binary         → Ghidra · IDA Pro · radare2 · gdb · pwndbg
-Network        → Wireshark · tcpdump · Responder
-Post-Exploit   → BloodHound · Mimikatz · PowerSploit
+Reconnaissance    → nmap | masscan | gobuster | ffuf
+Web Testing       → Burp Suite Pro | OWASP ZAP | sqlmap
+Exploitation      → Metasploit | Empire | Cobalt Strike
+Binary Analysis   → Ghidra | IDA Pro | radare2 | gdb
+Network Analysis  → Wireshark | tcpdump | Responder
+Post-Exploitation → BloodHound | Mimikatz | PowerSploit
 ```
 
-### 💻 Stack de desenvolvimento
-
+### Development Stack
 ```python
-langs   = ["Python", "Bash", "C", "Go"]
-scripts = ["JavaScript", "PowerShell"]
-foco    = "Exploit dev · Security tooling · Automação"
+primary_languages = ["Python", "Bash", "C", "Go"]
+scripting = ["JavaScript", "PowerShell", "Perl"]
+specialization = "Security Tooling & Exploit Development"
+
+def approach():
+    return "Automate everything, document nothing sensitive"
 ```
 
----
+## Current Operations
 
-## `ls -la /current`
-
-```
-├─[🔴] CTF — HackTheBox · TryHackMe · PicoCTF
-│       Web · Binary · Crypto · Forensics
+```bash
+┌─[●] Active Engagements
 │
-├─[💰] Bug Bounty — HackerOne · Bugcrowd · Intigriti
-│       Caçando vulns reais em produção
+├─[→] CTF Competitions
+│  └─ Participating in challenges across multiple platforms
+│     Focus: Web, Binary, Crypto, Forensics
 │
-├─[🎯] Red Team Jr
-│       Simulando APTs, testando resposta a incidentes
+├─[→] Bug Bounty Programs  
+│  └─ Hunting vulnerabilities in real-world applications
+│     Platforms: HackerOne, Bugcrowd, Intigriti
 │
-└─[📚] Research contínua
-        CVE analysis · zero-days · novas attack surfaces
+├─[→] Red Team Operations
+│  └─ Simulating advanced persistent threats
+│     Objective: Test detection and response capabilities
+│
+└─[→] Continuous Research
+   └─ Studying emerging attack vectors and defense mechanisms
+      Focus: Zero-day research, CVE analysis
 ```
 
----
-
-## Metodologia
+## Methodology
 
 ```
-[1] RECON          → inteligência sobre o alvo
-[2] SCANNING       → portas, serviços, tecnologias
-[3] ENUMERATION    → extrair o máximo de info
-[4] EXPLOITATION   → acesso inicial
-[5] POST-EXPLOIT   → escalada, persistência, pivoting
-[6] REPORT         → achados claros + remediação
+[1] RECONNAISSANCE    → Gather intelligence on target systems
+[2] SCANNING          → Identify open ports and services  
+[3] ENUMERATION       → Extract detailed system information
+[4] EXPLOITATION      → Gain unauthorized access
+[5] POST-EXPLOITATION → Maintain access and escalate privileges
+[6] REPORTING         → Document findings with remediation guidance
 ```
 
----
+## Philosophy
 
-## Plataformas
+> In the world of cybersecurity, the best defense comes from understanding the offense. Every vulnerability discovered is an opportunity to make systems stronger. Every exploit developed is a lesson in secure architecture.
+
+Security is not about building impenetrable walls it's about understanding how walls can be breached and constantly reinforcing them.
+
+## Platforms
 
 <p align="center">
   <a href="https://tryhackme.com/p/Fe1ps">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Fe1ps.png" alt="TryHackMe" width="380">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Fe1ps.png" alt="TryHackMe Badge" width="400">
   </a>
-  <br><br>
+  <br>
   <a href="https://app.hackthebox.com/users/2483868">
-    <img src="https://www.hackthebox.eu/badge/image/2483868" alt="HackTheBox" width="380">
+    <img src="https://www.hackthebox.eu/badge/image/2483868" alt="HackTheBox Badge" width="400">
   </a>
 </p>
 
----
-
-## Certs & Roadmap
-
-```
-[Em andamento]
-├─ Desec Certified Penetration Tester (DCPT)
-└─ ...
-
-[No radar]
-├─ OSCP
-└─ eWPT / eCPPT
-```
-
----
-
-## Contato
+## Professional Presence
 
 ```bash
 ┌─[fxlpz@sec]─[~/connect]
-└──╼ $ cat contacts.txt
+└──╼ $ ls -la contacts/
 ```
 
-| Canal | Link |
-|---|---|
-| LinkedIn | — |
-| Twitter/X | — |
-| Email | — |
-| HackTheBox | — |
-| TryHackMe | — |
-| Bug Bounty | — |
+- **LinkedIn:** 
+- **Twitter/X:**  
+- **Email:** 
+- **HackTheBox:** 
+- **TryHackMe:** 
+- **Bug Bounty:** 
+
+## Certifications & Learning Path
+
+```
+[In Progress]
+├─ Desec Certified Penetration Tester (DCPT)
+├─ null
+└─ ...
+
+[Continuous Learning]
+└─ Staying updated with latest CVEs, exploits, and security research
+```
 
 ---
 
 ```bash
 ┌─[fxlpz@sec]─[~]
-└──╼ $ echo "break things. learn everything. report responsibly." 
-break things. learn everything. report responsibly.
+└──╼ $ echo "Hack the planet. Secure the future." | sha256sum
+3c7d8f9a2b1e5c4d6f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d0  -
+
+┌─[fxlpz@sec]─[~]  
 └──╼ $ exit
 ```
 
