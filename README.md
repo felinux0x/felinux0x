@@ -21,8 +21,8 @@ Offensive Security Specialist focused on vulnerability research and penetration 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fxlpz&show_icons=true&theme=transparent&title_color=e8e8e8&text_color=9a9a9a&icon_color=5f5f5f&hide_border=true&hide_title=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxlpz&layout=compact&theme=transparent&title_color=e8e8e8&text_color=9a9a9a&hide_border=true" alt="Top Languages" />
+  <img src="img/stats.png" alt="GitHub Stats" />
+  <img src="img/langs.png" alt="Top Languages" />
 </p>
 
 ## Security Arsenal
