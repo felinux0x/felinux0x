@@ -51,11 +51,10 @@ post-exploitation   → bloodhound · mimikatz · powersploit
 
 <p align="center">
   <a href="https://tryhackme.com/p/Fe1ps">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Fe1ps.png" alt="TryHackMe Badge" width="380">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Fe1ps.png" alt="TryHackMe Badge" width="320">
   </a>
-  <br>
   <a href="https://app.hackthebox.com/users/2483868">
-    <img src="https://www.hackthebox.eu/badge/image/2483868" alt="HackTheBox Badge" width="380">
+    <img src="https://www.hackthebox.eu/badge/image/2483868" alt="HackTheBox Badge" width="320">
   </a>
 </p>
 
