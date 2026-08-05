@@ -1,154 +1,84 @@
-# fxlpz
+<p align="center">
+  <img src="img/header.png" alt="fxlpz" width="100%" />
+</p>
 
-```ascii
-┌─[fxlpz@sec]─[~]
-└──╼ $ cat profile.txt
-```
+> `$ whoami`
+>
+> offensive security specialist · bug bounty hunter · ctfer
 
 ## Overview
 
-Offensive Security Specialist focused on vulnerability research and penetration testing. Passionate about breaking systems ethically to strengthen digital security posture.
+Offensive Security Specialist focused on vulnerability research and penetration testing. Passionate about breaking systems ethically to strengthen their security posture.
 
-**Role:** CTF Player | Red Team Jr | Pentest Jr  
-**Age:** 23  
+**Role:** CTF Player | Red Team Jr | Pentest Jr
+**Age:** 23
 **Mission:** Finding and exploiting vulnerabilities before malicious actors do
 
-## Technical Expertise
+## Skills
 
-### Offensive Security
-```yaml
-web_exploitation:
-  - SQL Injection & NoSQL Injection
-  - Cross-Site Scripting (XSS)
-  - Server-Side Request Forgery (SSRF)
-  - Local/Remote File Inclusion
-  - Insecure Direct Object References
+<img src="img/skills.png" alt="skills" width="100%" />
 
-binary_exploitation:
-  - Buffer Overflow Attacks
-  - Return-Oriented Programming (ROP)
-  - Format String Vulnerabilities
-  - Reverse Engineering
+## GitHub Stats
 
-network_penetration:
-  - Port Scanning & Service Enumeration
-  - Network Pivoting & Lateral Movement
-  - Active Directory Exploitation
-  - Wireless Security Assessment
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fxlpz&show_icons=true&theme=transparent&title_color=e8e8e8&text_color=9a9a9a&icon_color=5f5f5f&hide_border=true&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxlpz&layout=compact&theme=transparent&title_color=e8e8e8&text_color=9a9a9a&hide_border=true" alt="Top Languages" />
+</p>
 
-post_exploitation:
-  - Linux Privilege Escalation
-  - Windows Privilege Escalation
-  - Persistence Mechanisms
-  - Data Exfiltration Techniques
-```
+## Security Arsenal
 
-### Security Arsenal
-```
-Reconnaissance    → nmap | masscan | gobuster | ffuf
-Web Testing       → Burp Suite Pro | OWASP ZAP | sqlmap
-Exploitation      → Metasploit | Empire | Cobalt Strike
-Binary Analysis   → Ghidra | IDA Pro | radare2 | gdb
-Network Analysis  → Wireshark | tcpdump | Responder
-Post-Exploitation → BloodHound | Mimikatz | PowerSploit
-```
-
-### Development Stack
-```python
-primary_languages = ["Python", "Bash", "C", "Go"]
-scripting = ["JavaScript", "PowerShell", "Perl"]
-specialization = "Security Tooling & Exploit Development"
-
-def approach():
-    return "Automate everything, document nothing sensitive"
-```
-
-## Current Operations
-
-```bash
-┌─[●] Active Engagements
-│
-├─[→] CTF Competitions
-│  └─ Participating in challenges across multiple platforms
-│     Focus: Web, Binary, Crypto, Forensics
-│
-├─[→] Bug Bounty Programs  
-│  └─ Hunting vulnerabilities in real-world applications
-│     Platforms: HackerOne, Bugcrowd, Intigriti
-│
-├─[→] Red Team Operations
-│  └─ Simulating advanced persistent threats
-│     Objective: Test detection and response capabilities
-│
-└─[→] Continuous Research
-   └─ Studying emerging attack vectors and defense mechanisms
-      Focus: Zero-day research, CVE analysis
+```text
+reconnaissance      → nmap · masscan · gobuster · ffuf
+web testing         → burp suite pro · owasp zap · sqlmap
+exploitation        → metasploit · empire · cobalt strike
+binary analysis     → ghidra · ida pro · radare2 · gdb
+network analysis    → wireshark · tcpdump · responder
+post-exploitation   → bloodhound · mimikatz · powersploit
 ```
 
 ## Methodology
 
+```text
+[1] RECONNAISSANCE    → gather intelligence on target systems
+[2] SCANNING          → identify open ports and services
+[3] ENUMERATION       → extract detailed system information
+[4] EXPLOITATION      → gain unauthorized access
+[5] POST-EXPLOITATION → maintain access and escalate privileges
+[6] REPORTING         → document findings with remediation guidance
 ```
-[1] RECONNAISSANCE    → Gather intelligence on target systems
-[2] SCANNING          → Identify open ports and services  
-[3] ENUMERATION       → Extract detailed system information
-[4] EXPLOITATION      → Gain unauthorized access
-[5] POST-EXPLOITATION → Maintain access and escalate privileges
-[6] REPORTING         → Document findings with remediation guidance
-```
-
-## Philosophy
-
-> In the world of cybersecurity, the best defense comes from understanding the offense. Every vulnerability discovered is an opportunity to make systems stronger. Every exploit developed is a lesson in secure architecture.
-
-Security is not about building impenetrable walls it's about understanding how walls can be breached and constantly reinforcing them.
 
 ## Platforms
 
 <p align="center">
   <a href="https://tryhackme.com/p/Fe1ps">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Fe1ps.png" alt="TryHackMe Badge" width="400">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Fe1ps.png" alt="TryHackMe Badge" width="380">
   </a>
   <br>
   <a href="https://app.hackthebox.com/users/2483868">
-    <img src="https://www.hackthebox.eu/badge/image/2483868" alt="HackTheBox Badge" width="400">
+    <img src="https://www.hackthebox.eu/badge/image/2483868" alt="HackTheBox Badge" width="380">
   </a>
 </p>
 
-## Professional Presence
+## Certificações
 
-```bash
-┌─[fxlpz@sec]─[~/connect]
-└──╼ $ ls -la contacts/
-```
+- **DCPT (Desec Security):** em andamento
+- **TryHackMe / Hack The Box:** aprendizado contínuo via CTFs e boxes
 
-- **LinkedIn:** 
-- **Twitter/X:**  
-- **Email:** 
-- **HackTheBox:** 
-- **TryHackMe:** 
-- **Bug Bounty:** 
+## Contatos
 
-## Certifications & Learning Path
+<img src="img/contact.png" alt="contato" width="100%" />
 
-```
-[In Progress]
-├─ Desec Certified Penetration Tester (DCPT)
-├─ null
-└─ ...
-
-[Continuous Learning]
-└─ Staying updated with latest CVEs, exploits, and security research
-```
+- **GitHub:** [fxlpz](https://github.com/fxlpz)
+- **LinkedIn:** [felipe0x01](https://www.linkedin.com/in/felipe0x01)
+- **Blog:** [fxlpz.github.io](https://fxlpz.github.io)
+- **Email:** [felipe.rosa.secdev@gmail.com](mailto:felipe.rosa.secdev@gmail.com)
+- **TryHackMe:** [Fe1ps](https://tryhackme.com/p/Fe1ps)
+- **Hack The Box:** [fxlpz](https://app.hackthebox.com/users/2483868)
 
 ---
 
-```bash
-┌─[fxlpz@sec]─[~]
-└──╼ $ echo "Hack the planet. Secure the future." | sha256sum
-3c7d8f9a2b1e5c4d6f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d0  -
-
-┌─[fxlpz@sec]─[~]  
-└──╼ $ exit
-```
+<p align="center">
+  <code>hack the planet, secure the future</code>
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fxlpz&color=0e1117&style=flat)
